@@ -1,7 +1,8 @@
-mkProjects
+Project Quick Load
 ==========
 
-Project Quick Load
+mkProjects
+----------
 
 A quick way to load and work with projects in autodesk maya.
 
