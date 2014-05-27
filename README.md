@@ -13,7 +13,8 @@ Use the following code to launch the tool.
 import mkProjects
 mkProjects.UI()
 ```
-Tested on : Mac & Windows
-Maya Versions : 2012 and above
+Tested on: Mac & Windows
+
+Maya Versions: 2012 and above
 
 ![](https://github.com/atvKumar/mkProjects/blob/master/Sample.png?raw=true)
