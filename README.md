@@ -16,4 +16,4 @@ mkProjects.UI()
 Tested on : Mac & Windows
 Maya Versions : 2012 and above
 
-![alt text](https://github.com/atvKumar/mkProjects/blob/master/Sample.png "Screen Shot")
+![](https://github.com/atvKumar/mkProjects/blob/master/Sample.png?raw=true)
